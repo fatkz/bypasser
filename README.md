@@ -4,7 +4,7 @@
 
 
 > 403, 401, 503... is a script written to skip the web pages you receive
-> For instructions on installation, see  [Installation]. I highly recommend you follow them._
+
 ## Installation
 
 ```sh
@@ -18,6 +18,7 @@ pip3 install -r requirements.txt
 python3 main.py  {domain} {path}
 ```
 ```
+> python3 main.py text.com admin
 
         █████
         ░███
